@@ -1,0 +1,16 @@
+---
+application:
+  name: "handbrake-bot"
+  project: "CrazyBotsz"
+  organization: "QoveryCommunity"
+  storage:
+  - name: "Handbrake"
+    size: "40"
+    type: "fast_ssd"
+    mount_point: "/mnt/Handbrake"
+routers:
+- name: "main-handbrake-bot"
+  routes:
+  - application_name: "handbrake-bot"
+    paths:
+    - "/*"
