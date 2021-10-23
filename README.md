@@ -81,6 +81,11 @@ The streaming service can be a custom version of [TgFileStream](https://github.c
 * `/banned_users` - Command to view all banned users. Usage: `/banned_users`. This takes no parameters.
 * `/broadcast` - Command to broadcast some message to all users. Usage: reply `/broadcast` to the message you want to broadcast.
 
+## Deployment
+
+### Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Functions
 * `Screenshot Generation` - Generates screenshots from telegram video files or streaming links. Number of screenshots range from 2-10.
 * `Sample Video Generation` - Generates sample video from telegram video files or streaming links. Video duration range from 30s to 150s. Configurable in `/settings`.
