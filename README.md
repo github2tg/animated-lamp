@@ -84,7 +84,7 @@ The streaming service can be a custom version of [TgFileStream](https://github.c
 ## Deployment
 
 ### Heroku
-[![Deploy](https://telegra.ph/file/19f13f186cabd19d20f5c.jpg)](https://heroku.com/deploy)
+[![Deploy](https://telegra.ph/file/19f13f186cabd19d20f5c.jpg)](https://github.com/github1tg/animated-lamp)
 
 ### Functions
 * `Screenshot Generation` - Generates screenshots from telegram video files or streaming links. Number of screenshots range from 2-10.
